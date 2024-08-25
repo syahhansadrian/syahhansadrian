@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @syahhansadrian
 - 👀 I’m interested in code-absolutely in security web
-- 🌱 I’m currently learning on basic web code im 
+- 🌱 I’m currently learning on basic web code 
 - 💞️ I’m looking to collaborate on learning code
 - 📫 How to reach me you can search me at instagram as "hansadriian" or at linkedin as "syah hans adrian"
 <!---
